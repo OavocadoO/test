@@ -1,0 +1,9 @@
+﻿  uic ItemTest.ui
+  rcc ItemTest.qrc
+  moc ItemTest.h
+   RCC: Warning: No resources in 'D:\deals\git鐗堟湰\GitHub\test\ItemTest\ItemTest\ItemTest.qrc'.
+  ItemTest.cpp
+  main.cpp
+  qrc_ItemTest.cpp
+  moc_ItemTest.cpp
+  ItemTest.vcxproj -> D:\deals\git版本\GitHub\test\ItemTest\x64\Debug\ItemTest.exe
