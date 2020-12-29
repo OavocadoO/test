@@ -1,3 +1,3 @@
-brunch 1    ert
+brunch 1=0    ert
 
 add new message
