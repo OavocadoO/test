@@ -5,3 +5,6 @@ add new
 add new message
 
 676767
+
+
+gitignore
