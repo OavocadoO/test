@@ -10,3 +10,5 @@ add new message
 gitignore
 
 ++
+
+merge flag
